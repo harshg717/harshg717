@@ -1,5 +1,10 @@
 # 💫 About Me:
-Backend Developer (3.5+ yrs) building resilient distributed systems, data-driven backends, and cloud infrastructure. Passionate about API design, applied AI, and automated DevOps workflows
+Yo! Results-oriented Backend Developer with 3.5 years of experience architecting and maintaining production-grade applications. Proficient in designing scalable RESTful/gRPC APIs, microservices, and database schemas. Combines strong backend fundamentals with applied knowledge in AI/Data Science workflow integration and cloud-native DevOps automation (CI/CD, Docker, Kubernetes, Cloud platforms) to deliver end-to-end reliability, system observability, and engineering efficiency.
+Backend: API Design (REST/GraphQL/gRPC), Microservices, System Architecture, Database Optimization (SQL/NoSQL), Caching, Security.
+
+DevOps: CI/CD Pipelines, Docker, Kubernetes, Cloud (AWS/GCP/OCI), Infrastructure as Code, Monitoring & Observability.
+
+AI & Data Science: Model Integration/Serving, Data Pipelines, ETL, Vector Search/LLM Orchestration, Python data stack.
 
 
 ## 🌐 Socials:
